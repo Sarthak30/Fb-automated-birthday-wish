@@ -10,4 +10,4 @@ Steps to follow:
 <li>Run the pyhton script</li>
 </ol>
 
-<u>Note:</u>The access token is short lived. It is refreshes automatically sometimes, sometimes you have to. It is for you fb account safety.
+<u>Note:</u>The access token is short lived. It refreshes automatically sometimes, sometimes you have to. It is for you fb account safety.
